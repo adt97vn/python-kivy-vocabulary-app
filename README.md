@@ -55,7 +55,7 @@ As a beginner, I welcome feedback and suggestions for improvement.
 ### 1) Clone the repository
 
 ```bash
-git clone https://github.com/ad-tran/python-kivy-vocabulary-app.git
+git clone https://github.com/adt97vn/python-kivy-vocabulary-app.git
 cd python-kivy-vocabulary-app
 ```
 
